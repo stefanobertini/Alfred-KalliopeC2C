@@ -1,7 +1,8 @@
 Alfred-KalliopeC2C
 ==================
 
-An <a href="http://www.alfredapp.com/">Alfred</a> plugin to dial numbers on a <a href="http://www.kalliopepbx.com//">Kalliope PBX</a>
+An <a href="http://www.alfredapp.com/">Alfred</a> workflow to dial numbers on a <a href="http://www.kalliopepbx.com//">Kalliope PBX</a><br>
+(you must have the PowerPack installed to use it) <br>
 
 To setup the plugin you have to:<br>
 1) Setup the plugin using these parameters:
